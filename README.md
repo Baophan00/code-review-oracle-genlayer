@@ -21,6 +21,9 @@ validators must agree on score + findings before committing.
 
 ## Evidence
 
-- Contract: deployed on Studio Network
-- Tests: direct-mode
+- Contract address: 0x2d9F945E665F4d3af6Cc7F23ce49C0A3107b2DA2
+- Deploy tx: 0xa743fa4551c9b39b099195a59dfe31797b30af58ad993e2bca1e5a3b8b57898d
+- E2E tx: 0x95909b5f5a9e60fb4c5de7079aa60ee9e8d5a317901411785ac9bed7899c669a
+- Test result: reviewed PR → findings (2), score, recommendation
+- Tests: direct-mode + Studio Network
 - App: live
